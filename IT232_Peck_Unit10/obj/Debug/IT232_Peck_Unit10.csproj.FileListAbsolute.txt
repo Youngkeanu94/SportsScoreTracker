@@ -1,0 +1,3 @@
+C:\Users\hunte\source\repos\IT232_Peck_Unit10\obj\Debug\IT232_Peck_Unit10.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\IT232_Peck_Unit10\obj\Debug\IT232_Peck_Unit10.csproj.SuggestedBindingRedirects.cache
+C:\Users\hunte\source\repos\IT232_Peck_Unit10\obj\Debug\IT232_Peck_Unit10.csproj.CoreCompileInputs.cache
